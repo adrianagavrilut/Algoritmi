@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorareGraf", "ColorareGra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafMatrici", "GrafMatrici\GrafMatrici.csproj", "{55BAB6CC-65D0-4072-B173-2F956635C397}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SahAmplasareCal", "SahAmplasareCal\SahAmplasareCal.csproj", "{A0D14204-51AD-43A3-980C-9598AA461A65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{55BAB6CC-65D0-4072-B173-2F956635C397}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55BAB6CC-65D0-4072-B173-2F956635C397}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55BAB6CC-65D0-4072-B173-2F956635C397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D14204-51AD-43A3-980C-9598AA461A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D14204-51AD-43A3-980C-9598AA461A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D14204-51AD-43A3-980C-9598AA461A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D14204-51AD-43A3-980C-9598AA461A65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
